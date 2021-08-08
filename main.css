@@ -1,0 +1,12 @@
+input[type="text"]{
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 60px;
+}
+
+input[type="button"]{
+    padding: 15px;
+    border-radius: 5px; 
+}
+
